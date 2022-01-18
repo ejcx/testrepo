@@ -1,0 +1,5 @@
+ownership_rules:
+  directory_matching_rules:
+    - name: Allow All
+      path: /*
+
